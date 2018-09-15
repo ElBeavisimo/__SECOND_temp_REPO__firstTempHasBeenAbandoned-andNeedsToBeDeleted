@@ -19,7 +19,7 @@ When the tutorial has been completed sucessfully:
 The following text should be included as/with the core documentation of the fundamentals learned:
 
 
-  Any time a COMMIT has been MERGED into the MASTER, the code actively running on the SecuritySystemRPi must be updatesd as well.
+  Any time a COMMIT has been MERGED into the MASTER, the code actively running on the SecuritySystemRPi must be updated as well.
   
   A COMMIT is produced by developing code in a BRANCH until such time as the MASTER & BRANCH together comprise the new updated VERSION of the REPO.
       After the coding is finalized, the next step is to SUBMIT A PULL REQUEST.
